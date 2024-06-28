@@ -364,7 +364,7 @@ function agregarPasajero() {
     }
 }
 
-
+//mod
 function modificarPasajero() {
     echo "Ingrese el documento del pasajero que desea modificar:\n";
     $id = trim(fgets(STDIN));
